@@ -1,7 +1,7 @@
 #----------------------------------------------
-#--- Author         : Group #7
-#--- Project        : Digital Image Processign 
-#--- Date           : 18th April 2019
+#--- Author         : Edson Trejo 
+#--- Project        : Digital Image Processing
+#--- Date           : May2019
 #----------------------------------------------
 
 import face_recognition
